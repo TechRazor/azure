@@ -1,0 +1,11 @@
+{
+  "name": "nsg-flow-oms-upload",
+  "version": "1.0.0",
+  "description": "Script to upload Azure NSG flow logs from Storage Accounts to OMS workspace.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT"
+}
